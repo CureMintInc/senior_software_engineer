@@ -1,3 +1,20 @@
+# Apply Here:
+
+https://curemint.applytojob.com/apply/s3TbuFmO0K/Senior-Software-Engineer
+
+
+# Job Description
+
+The actual job description can be found here:
+
+https://github.com/CureMintInc/senior_software_engineer/blob/main/job_description.pdf
+
+
+
+
+
+
+
 # Success at CureMint as a Senior Software Engineer
 
 Have you ever been frustrated in a role becuase there was no clear indicators of success?  Have you ever been at a company where success was defined by whatever your boss felt like at any given moment?  

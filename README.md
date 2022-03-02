@@ -1,5 +1,9 @@
 # Success at CureMint as a Senior Software Engineer
 
+Have you ever been frustrated in a role becuase there was no clear indicators of success?  Have you ever been at a company where success was defined by whatever your boss felt like at any given moment?  
+
+In an effort to avoid that at CureMint®, we have put a significant amount of thought and effort into defining success.  This document details what success looks like for this role.
+
   
 
 Team Engagement
@@ -200,7 +204,7 @@ Growth helps keep us motivated. It is also one of our values: "Maniacal pursuit 
   
 
 Testing
-=======
+-------
 
 Ensuring our code functions as intended is critical to the success of our product.
 
@@ -219,7 +223,7 @@ Ensuring our code functions as intended is critical to the success of our produc
   
 
 Code Quality
-============
+------------
 
 Our codebase is a moving target with many people working on it. It is essential that we elevate our code quality to ensure we are not introducing issues and bugs. Additionally, it helps us become better engineers
 
@@ -239,7 +243,7 @@ Our codebase is a moving target with many people working on it. It is essential 
   
 
 Pull Requests
-=============
+-------------
 
 Reviewing code makes us write better code. It is one of the best ways for us to learn. Additionally, we can't release code that hasn't been reviewed so contributing to the review process is absolutely a must.
 

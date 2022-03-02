@@ -15,7 +15,7 @@ https://github.com/CureMintInc/senior_software_engineer/blob/main/job_descriptio
 
 
 
-# Defining success in this role
+# Defining Success in this Role
 
 Have you ever been frustrated in a role becuase there was no clear indicators of success?  Have you ever been at a company where success was defined by whatever your boss felt like at any given moment?  
 

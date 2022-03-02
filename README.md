@@ -15,7 +15,7 @@ https://github.com/CureMintInc/senior_software_engineer/blob/main/job_descriptio
 
 
 
-# Success at CureMint as a Senior Software Engineer
+# Defining success in this role
 
 Have you ever been frustrated in a role becuase there was no clear indicators of success?  Have you ever been at a company where success was defined by whatever your boss felt like at any given moment?  
 
